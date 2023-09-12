@@ -27,3 +27,4 @@ Create a pull request.
 This project was inspired by the need for a simple weather app.
 Thanks to the Weather API for providing weather data.
 
+
